@@ -7,7 +7,7 @@ b) (V) short $mom = 43;
 
 c) (F) int num = 2.5;
 
-d) (F) double d = 20;
+d) (V) double d = 20;
 
 e) (F) char c = 25;
 
