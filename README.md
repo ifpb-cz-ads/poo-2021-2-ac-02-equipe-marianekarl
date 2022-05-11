@@ -13,7 +13,7 @@ e) (F) char c = 25;
 
 f) (F) boolean epar = (4%2=0)
 
-g) (V) char nome = “Maria”;
+g) (F) char nome = “Maria”;
 
 h) (F) String b = “1”
 
