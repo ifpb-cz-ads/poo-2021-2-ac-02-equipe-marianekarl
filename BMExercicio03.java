@@ -11,7 +11,7 @@ class BMExercicio03 {
         
         double novoresultado = (queijo1 * valor) + (queijo2 * taxa);
         
-        boolean muitoCaro = novoresultado = 10; 
+        boolean altopreço = novoresultado = 10; 
         
         System.out.println(" O queijo1  vale " + queijo1 + "e o queijo2 vale " + queijo2);
         System.out.println("O resultado dos queijos vale igual a " + resultadoadicional);
