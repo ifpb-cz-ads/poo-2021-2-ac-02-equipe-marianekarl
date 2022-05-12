@@ -1,4 +1,4 @@
-java c BMExercicio03.java
+
 class BMExercicio03 {
  public class void main(string[] args) {
         double queijo1 = 2.95;
